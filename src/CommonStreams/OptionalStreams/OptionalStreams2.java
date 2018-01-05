@@ -1,9 +1,7 @@
 package CommonStreams.OptionalStreams;
 
-import root.Trade;
+import Util.Trade;
 
-import javax.naming.OperationNotSupportedException;
-import javax.swing.plaf.synth.SynthTextAreaUI;
 import java.util.Optional;
 
 /**

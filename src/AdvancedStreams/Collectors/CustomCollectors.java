@@ -1,13 +1,12 @@
 package AdvancedStreams.Collectors;
 
-import root.CreateTradeList;
-import root.Trade;
+import Util.CreateTradeList;
+import Util.Trade;
 
 import java.util.IntSummaryStatistics;
 import java.util.List;
 import java.util.function.BiConsumer;
 import java.util.function.Supplier;
-import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.summarizingInt;
 

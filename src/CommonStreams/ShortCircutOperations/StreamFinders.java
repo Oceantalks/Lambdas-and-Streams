@@ -1,12 +1,10 @@
 package CommonStreams.ShortCircutOperations;
 
-import Streams.IntroductionStreams.StreamBasics;
-import root.CreateTradeList;
-import root.Trade;
+import Util.CreateTradeList;
+import Util.Trade;
 
 import java.util.List;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
 /**
  * Created by Ado on 2018-01-03.

@@ -1,13 +1,11 @@
 package CommonStreams.CollectionStreams;
 
-import root.CreateTradeList;
-import root.Trade;
+import Util.CreateTradeList;
+import Util.Trade;
 
-import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.toList;
 import static java.util.stream.Collectors.toMap;

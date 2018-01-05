@@ -1,8 +1,8 @@
 package AdvancedStreams.FlatMap;
 
-import root.CreateTradeList;
-import root.ShareHolders;
-import root.Trade;
+import Util.CreateTradeList;
+import Util.ShareHolders;
+import Util.Trade;
 
 import java.util.List;
 import java.util.stream.Stream;

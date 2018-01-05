@@ -1,7 +1,7 @@
 package AdvancedStreams.ParallelMeasurements;
 
-import root.CreateTradeList;
-import root.Trade;
+import Util.CreateTradeList;
+import Util.Trade;
 
 import java.time.Duration;
 import java.time.Instant;

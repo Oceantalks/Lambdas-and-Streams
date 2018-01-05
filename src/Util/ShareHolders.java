@@ -1,6 +1,4 @@
-package root;
-
-import java.time.Instant;
+package Util;
 
 /**
  * Created by Ado on 2018-01-05.

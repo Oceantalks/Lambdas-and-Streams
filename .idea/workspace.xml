@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a54d89-24b4-4ebc-b590-95005581a59c" name="Default" comment="" />
+    <list default="true" id="73a54d89-24b4-4ebc-b590-95005581a59c" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/root/CreateTradeList.java" afterPath="$PROJECT_DIR$/src/Util/CreateTradeList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/root/ShareHolders.java" afterPath="$PROJECT_DIR$/src/Util/ShareHolders.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/root/Trade.java" afterPath="$PROJECT_DIR$/src/Util/Trade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AdvancedStreams/Collectors/CustomCollectors.java" afterPath="$PROJECT_DIR$/src/AdvancedStreams/Collectors/CustomCollectors.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AdvancedStreams/FlatMap/FlatMap.java" afterPath="$PROJECT_DIR$/src/AdvancedStreams/FlatMap/FlatMap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AdvancedStreams/Introduction/GroupingStreams.java" afterPath="$PROJECT_DIR$/src/AdvancedStreams/Introduction/GroupingStreams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AdvancedStreams/ParallelMeasurements/ParallelStreams.java" afterPath="$PROJECT_DIR$/src/AdvancedStreams/ParallelMeasurements/ParallelStreams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AdvancedStreams/Partitioning/PartitioningStreams.java" afterPath="$PROJECT_DIR$/src/AdvancedStreams/Partitioning/PartitioningStreams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CommonStreams/CollectionStreams/CollectionStreams.java" afterPath="$PROJECT_DIR$/src/CommonStreams/CollectionStreams/CollectionStreams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CommonStreams/CommonStreams/IntroductionCommonStreams.java" afterPath="$PROJECT_DIR$/src/CommonStreams/CommonStreams/IntroductionCommonStreams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CommonStreams/DistinctLimitSkip/DiLiSk.java" afterPath="$PROJECT_DIR$/src/CommonStreams/DistinctLimitSkip/DiLiSk.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CommonStreams/MappingStreams/MappingStreams.java" afterPath="$PROJECT_DIR$/src/CommonStreams/MappingStreams/MappingStreams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CommonStreams/OptionalStreams/OptionalStreams1.java" afterPath="$PROJECT_DIR$/src/CommonStreams/OptionalStreams/OptionalStreams1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CommonStreams/OptionalStreams/OptionalStreams2.java" afterPath="$PROJECT_DIR$/src/CommonStreams/OptionalStreams/OptionalStreams2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CommonStreams/ReduceStreams/ReduceStreams.java" afterPath="$PROJECT_DIR$/src/CommonStreams/ReduceStreams/ReduceStreams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CommonStreams/ShortCircutOperations/StreamFinders.java" afterPath="$PROJECT_DIR$/src/CommonStreams/ShortCircutOperations/StreamFinders.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Streams/CreatingStreams/CreatingStreams.java" afterPath="$PROJECT_DIR$/src/Streams/CreatingStreams/CreatingStreams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Streams/IntroductionStreams/StreamBasics.java" afterPath="$PROJECT_DIR$/src/Streams/IntroductionStreams/StreamBasics.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Streams/LazyAndEagerStreams/LazyAndEagerStreams.java" afterPath="$PROJECT_DIR$/src/Streams/LazyAndEagerStreams/LazyAndEagerStreams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Streams/PrimitiveStreams/PrimitiveStreams.java" afterPath="$PROJECT_DIR$/src/Streams/PrimitiveStreams/PrimitiveStreams.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,20 +38,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ShareHolders.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/ShareHolders.java">
+        <entry file="file://$PROJECT_DIR$/src/Util/ShareHolders.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="44" column="18" lean-forward="false" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+            <state relative-caret-position="450">
+              <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="CreateTradeList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/CreateTradeList.java">
+        <entry file="file://$PROJECT_DIR$/src/Util/CreateTradeList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="92" lean-forward="false" selection-start-line="25" selection-start-column="92" selection-end-line="25" selection-end-column="92" />
+            <state relative-caret-position="345">
+              <caret line="23" column="92" lean-forward="false" selection-start-line="23" selection-start-column="92" selection-end-line="23" selection-end-column="92" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,7 +96,7 @@
         </entry>
       </file>
       <file leaf-file-name="Trade.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/root/Trade.java">
+        <entry file="file://$PROJECT_DIR$/src/Util/Trade.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="186">
               <caret line="97" column="18" lean-forward="false" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
@@ -101,6 +122,9 @@
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -164,6 +188,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -207,6 +232,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -219,10 +248,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="root" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -658,7 +683,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -727,6 +752,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -734,6 +760,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -749,6 +776,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -762,7 +790,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/Trade.java">
+    <entry file="file://$PROJECT_DIR$/src/Util/Trade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="62" column="18" lean-forward="false" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
@@ -770,7 +798,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/CreateTradeList.java">
+    <entry file="file://$PROJECT_DIR$/src/Util/CreateTradeList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
@@ -903,6 +931,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -918,6 +947,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -925,6 +955,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -939,6 +970,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#307#308#0" expanded="false" />
+            <element signature="e#355#356#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -954,6 +990,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -971,6 +1010,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1036,25 +1078,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/ShareHolders.java">
+    <entry file="file://$PROJECT_DIR$/src/Util/ShareHolders.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="44" column="18" lean-forward="false" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        <state relative-caret-position="450">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/CreateTradeList.java">
+    <entry file="file://$PROJECT_DIR$/src/Util/CreateTradeList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="92" lean-forward="false" selection-start-line="25" selection-start-column="92" selection-end-line="25" selection-end-column="92" />
+        <state relative-caret-position="345">
+          <caret line="23" column="92" lean-forward="false" selection-start-line="23" selection-start-column="92" selection-end-line="23" selection-end-column="92" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/root/Trade.java">
+    <entry file="file://$PROJECT_DIR$/src/Util/Trade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="97" column="18" lean-forward="false" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />

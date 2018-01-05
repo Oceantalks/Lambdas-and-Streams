@@ -1,7 +1,7 @@
 package CommonStreams.MappingStreams;
 
-import root.CreateTradeList;
-import root.Trade;
+import Util.CreateTradeList;
+import Util.Trade;
 
 import java.util.List;
 import java.util.stream.Stream;
